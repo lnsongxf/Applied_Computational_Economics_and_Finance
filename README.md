@@ -8,17 +8,23 @@ Textbook: Applied Computational Economics and Finance
 
 Miranda and Fackler's CompEcon toolbox:
 
+http://www4.ncsu.edu/%7Epfackler/compecon/toolbox.html
+
 Julia versions of the CompEcon routines by Miranda and Fackler. 
+
 https://github.com/QuantEcon/CompEcon.jl
 
 A Python version of Miranda and Fackler's CompEcon toolbox 
+
 https://github.com/randall-romero/CompEcon-python
 
 
 QuantEcon:
 
 
-Julia implementation of QuantEcon routines http://quantecon.org/julia_index.html
+Julia implementation of QuantEcon routines 
+
+http://quantecon.org/julia_index.html
 
 
 Tutorial:
