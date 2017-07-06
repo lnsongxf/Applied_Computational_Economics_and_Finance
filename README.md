@@ -1,2 +1,13 @@
 # econ457
-ECON457 2018 Applied Computational Economics and Finance
+ECON457 2018 
+
+Textbook: Applied Computational Economics and Finance
+
+
+Reference: 
+
+https://github.com/hahnicity/ace
+
+https://github.com/randall-romero/CompEcon-python
+
+https://github.com/broughtj/Fin5350
